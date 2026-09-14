@@ -1,5 +1,5 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,guaman-poma-nueva,0.41336129299061036,0.4319856334386819,6.451767304860088,,Does Nate think this dog is cool?,"Yes. ",,,,,,,,
+1,guaman-poma-nueva,0.5122247602158566,0.5394828241173227,0.9000000000000001,,"Is the image focused on the woman or the animals? ","This image depicted a woman surrounded by animals of various species. Some smiling, others growling, some with expressionless faces. The vast majority are facing towards the woman giving a sense of movement to the circle as it closes in. ",,,cool-animals-what-is-the.md,,,,,
 2,,,,,,Pt 2 - Another cool animal from this drawing,,,,,,,,,
 3,guaman-poma-nueva,0.6537738837691489,0.35800998938617057,6.451767304860088,,"Lizard but spread out ",,,,,,,,,
