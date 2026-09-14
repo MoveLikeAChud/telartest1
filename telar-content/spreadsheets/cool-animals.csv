@@ -1,0 +1,5 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,guaman-poma-nueva,0.41336129299061036,0.4319856334386819,6.451767304860088,,Does Nate think this dog is cool?,"Yes. ",,,,,,,,
+2,,,,,,Pt 2 - Another cool animal from this drawing,,,,,,,,,
+3,guaman-poma-nueva,0.6537738837691489,0.35800998938617057,6.451767304860088,,"Lizard but spread out ",,,,,,,,,
